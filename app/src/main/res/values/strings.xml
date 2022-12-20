@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationTest</string>
+    <string name="this_app_requires_at_least_approximate_location_permissions_to_function">This app requires at least approximate location permissions to function.</string>
+    <string name="where_am_i">Where am I?</string>
+    <string name="location_test">Location Test</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+</resources>
